@@ -8,4 +8,3 @@ fedfs-utils-devel.x86_64 : Development files for the FedFS nfs-plugin
 fedfs-utils-lib.i686 : The FedFS nfs-plugin run-time library
 fedfs-utils-lib.x86_64 : The FedFS nfs-plugin run-time library
 texlive-mfnfss.noarch : Packages to typeset oldgerman and pandora fonts in LaTeX
-texlive-psnfss.noarch : Font support for common PostScript fonts
