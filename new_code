@@ -1,0 +1,11 @@
+blim-cmpi-nfsv4.i686 : SBLIM nfsv4 instrumentation
+sblim-cmpi-nfsv4.x86_64 : SBLIM nfsv4 instrumentation
+sblim-cmpi-nfsv4-test.x86_64 : SBLIM Nfsv4 Instrumentation Testcases
+texlive-mfnfss-doc.noarch : Documentation for mfnfss
+texlive-psnfss-doc.noarch : Documentation for psnfss
+fedfs-utils-devel.i686 : Development files for the FedFS nfs-plugin
+fedfs-utils-devel.x86_64 : Development files for the FedFS nfs-plugin
+fedfs-utils-lib.i686 : The FedFS nfs-plugin run-time library
+fedfs-utils-lib.x86_64 : The FedFS nfs-plugin run-time library
+texlive-mfnfss.noarch : Packages to typeset oldgerman and pandora fonts in LaTeX
+texlive-psnfss.noarch : Font support for common PostScript fonts
